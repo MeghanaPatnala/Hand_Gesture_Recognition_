@@ -25,4 +25,10 @@ A real-time hand gesture recognition system using a webcam, [MediaPipe](https://
 - YAML for gesture label config
 
 ---
+## 🔍 Demo Output
+
+Here’s the real-time output of the gesture recognition:
+
+### 🖼️ Screenshot
+![Gesture Recognition Screenshot](demo.png)
 
