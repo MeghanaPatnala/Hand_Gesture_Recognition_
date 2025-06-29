@@ -30,5 +30,5 @@ A real-time hand gesture recognition system using a webcam, [MediaPipe](https://
 Here’s the real-time output of the gesture recognition:
 
 ### 🖼️ Screenshot
-![Gesture Recognition Screenshot](demo.png)
+![Gesture Recognition Screenshot](Screenshot 2025-06-29 183935.png)
 
